@@ -1,3 +1,4 @@
+//Simple clicker GUI game using java swing
 package learnGUI;
 
 import java.awt.BorderLayout;
